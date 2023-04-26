@@ -176,7 +176,7 @@ require (
 
 // v1.2.0 is taken from github.com/open-policy-agent/opa v0.42.0
 // v1.2.0 incompatible with github.com/docker/docker v23.0.0-rc.1+incompatible
-replace oras.land/oras-go => oras.land/oras-go v1.2.3
+replace oras.land/oras-go/v2 => oras.land/oras-go v2.0.2
 
 // v0.3.1-0.20230104082527-d6f58551be3f is taken from github.com/moby/buildkit v0.11.0
 // spdx logic write on v0.3.0 and incompatible with v0.3.1-0.20230104082527-d6f58551be3f
